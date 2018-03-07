@@ -20,14 +20,14 @@ Duster = {
     'Rented to': 'NIL',
     'price': '$40',
     }
-Celerio = {
-    'Reg No.': 'KL 05 A 3090',
-    'Colour': 'Red',
+Swift = {
+    'Reg No.': 'KL 05 AD 3904',
+    'Colour': 'Blue',
     'Available': 'No',
-    'Rent date': '1/06/2016',
-    'Return Date': '14/06/2016',
+    'Rent date': '1/03/2018',
+    'Return Date': '14/03/2018',
     'Rented to': 'name',
-    'price': '$30',
+    'price': '$300',
     }
 Audi = {
     'Reg No.': 'KL 05 E 8039',
