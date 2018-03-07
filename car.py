@@ -3,7 +3,7 @@ carinhand = ['Duster', 'Audi', 'jaguar','auto']
 totalcar = ['Ford', 'Duster', 'tyio', 'Audi','Kiwi', 'Jaguar']
 carinrent = ['Ford', 'Celerio']
 Ford = {
-    'Reg No.': 'KL 05 5478',
+    'Reg No.': 'KL 11 5478',
     'Colour': 'Red',
     'Available': 'No',
     'Rent date': '1/06/2016',
@@ -12,7 +12,7 @@ Ford = {
     'price': '$67',
     }
 Duster = {
-    'Reg No.': 'KL 05 A 768',
+    'Reg No.': 'KL 11 A 768',
     'Colour': 'White',
     'Available': 'Yes',
     'Rent date': '1/06/2016',
@@ -21,7 +21,7 @@ Duster = {
     'price': '$40',
     }
 Celerio = {
-    'Reg No.': 'KL 05 A 3090',
+    'Reg No.': 'KL 11 A 3090',
     'Colour': 'Red',
     'Available': 'No',
     'Rent date': '1/06/2016',
@@ -30,7 +30,7 @@ Celerio = {
     'price': '$30',
     }
 Audi = {
-    'Reg No.': 'KL 05 E 8039',
+    'Reg No.': 'KL 11 E 8039',
     'Colour': 'Blue',
     'Available': 'Yes',
     'Rent date': '1/06/2016',
@@ -39,7 +39,7 @@ Audi = {
     'price': '$70',
     }
 Jaguar = {
-    'Reg No.': 'KL 05 B 2345',
+    'Reg No.': 'KL 11 B 2345',
     'Colour': 'White',
     'Available': 'Yes',
     'Rent date': '1/06/2016',
